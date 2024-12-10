@@ -1,0 +1,13 @@
+opencv-python
+numpy
+matplotlib
+seaborn
+pandas
+scipy
+statsmodels
+argparse
+moviepy
+requests
+tqdm
+google-generativeai
+pytesseract
